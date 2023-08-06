@@ -1,0 +1,22 @@
+student_name = "Sam"
+
+#Notas
+math_grade = 88
+science_grade = 75
+english_grade = 90
+geology_grade = 69
+
+#Calculos
+total_grade = math_grade + science_grade + english_grade + geology_grade
+max_grade = 400
+total_percentage = total_grade / max_grade * 100
+
+print(f"{student_name}'s total percentage is {total_percentage}%")
+
+total_percentage = int(total_percentage)
+did_student_pass = total_percentage >= 50
+sporting_activities = bool(0)
+
+print(f"{student_name} participated in sporting activities: {sporting_activities}")
+print(f"{student_name} 's total percentage as an integer is {total_percentage}%")
+print(f"{student_name}  passed to the next semester: {did_student_pass}")
