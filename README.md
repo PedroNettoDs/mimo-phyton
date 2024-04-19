@@ -1,5 +1,5 @@
-# mimo-phyton
-Atividades do Curso de Phyton da Mimo.org
+# mimo-python
+Atividades do Curso de Python da Mimo.org
 
 Este repositório contém as atividades realizadas por mim durante o curso.
 Cada pasta representa um módulo ou tópico específico do curso, e os arquivos dentro delas são os exercícios e projetos desenvolvidos ao longo do aprendizado.
